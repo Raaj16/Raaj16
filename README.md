@@ -1,11 +1,11 @@
 [![MasterHead](https://s1.ezgif.com/tmp/ezgif-1-128389e21f.gif)](https://Raaj16.io)
 
-<h1 align="center">Hi 👋, I'm Raaj</h1>
+<h1 align="center">Hi 👋, I'm Raaj Kennedy</h1>
 <h3 align="center">Explorer | Developer</h3>
 <img align="right" src="https://dxbcode.com/assets/images/39998-web-development.gif" alt="coding" width="400">
 
 - 🔭 I’m currently studying at <a href="https://www.sathyabama.ac.in/" rel="nofollow">Sathyabama Institute of Science and Technology , Chennai.</a>
-- 📫 How to reach me **raajkennedy12@gmail.com**
+- 📫 How to reach me **raajkennedy16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

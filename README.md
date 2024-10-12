@@ -1,4 +1,4 @@
-[![MasterHead](https://s1.ezgif.com/tmp/ezgif-1-128389e21f.gif)](https://Raaj16.io)
+[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*kkCK2OG2WcCI0i7ZLa5g0g.png)](https://Raaj16.io)
 
 <h1 align="center">Hi 👋, I'm Raaj Kennedy</h1>
 <h3 align="center">Explorer | Developer</h3>
